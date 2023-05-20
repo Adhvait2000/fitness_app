@@ -2,7 +2,11 @@
 
 # Overview
 
-The Fitness Exercise Finder is a web application designed for fitness enthusiasts to easily discover and explore exercises for each muscle group. Whether you are a gym enthusiast or simply looking for a new workout routine, this app provides a convenient solution to find exercises, watch related videos, and discover similar exercises.
+As an avid gym enthusiast, I often found myself spending a significant amount of time searching for exercises that target specific muscle groups on YouTube. It was time-consuming and frustrating to sift through countless search results to find the right one for me. 
+
+Therefore, to streamline the process and make it easier for myself, I decided to create the Fitness Exercise Finder. This web application was developed due to my passion for fitness and desire to provide a convenient solution for finding exercises quickly and conveniently.
+
+Hence, this application provides a centralized platform where users could easily access a database of exercises, watch related videos, and discover alternative exercises for each muscle group. Therefore, this helps to eliminate the need for extensive web searches, allowing me to save time.
 
 # Features
 
@@ -26,6 +30,6 @@ The Fitness Exercise Finder is a web application designed for fitness enthusiast
 - Social Sharing: Enable users to share their favorite exercises or workout routines on social media platforms.
 - Exercise Tracking: Integrate a feature to track and record workout progress, including sets, reps, and weights.
 
-# License
+# App
 
-Project is licensed under the MIT License
+https://fitnesshelp.netlify.app/
