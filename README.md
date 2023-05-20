@@ -25,3 +25,7 @@ The Fitness Exercise Finder is a web application designed for fitness enthusiast
 - Search Functionality: Add a search feature to allow users to directly search for specific exercises or muscle groups.
 - Social Sharing: Enable users to share their favorite exercises or workout routines on social media platforms.
 - Exercise Tracking: Integrate a feature to track and record workout progress, including sets, reps, and weights.
+
+# License
+
+Project is licensed under the MIT License
