@@ -1,7 +1,5 @@
 # Fitness Exercise Finder
 
-# Fitness Exercise Finder
-
 # Overview
 
 As an avid gym enthusiast, I often found myself spending a significant amount of time searching for exercises that target specific muscle groups on YouTube. It was time-consuming and frustrating to sift through countless search results to find the right one for me. 
