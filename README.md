@@ -32,4 +32,4 @@ Hence, this application provides a centralized platform where users could easily
 
 # App
 
-https://fitnesshelp.netlify.app/
+https://gymgeeks.netlify.app/
