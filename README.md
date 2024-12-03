@@ -29,7 +29,3 @@ Hence, this application provides a centralized platform where users could easily
 - Search Functionality: Add a search feature to allow users to directly search for specific exercises or muscle groups.
 - Social Sharing: Enable users to share their favorite exercises or workout routines on social media platforms.
 - Exercise Tracking: Integrate a feature to track and record workout progress, including sets, reps, and weights.
-
-# App
-
-https://gymgeeks.netlify.app/
